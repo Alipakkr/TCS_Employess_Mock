@@ -43,12 +43,11 @@ This project is a Full Stack Employee Management application built using the MER
 
 ## Deployment
 
-- **Frontend:** [Deployed Frontend Link](#) *(Replace "#" with actual deployed frontend link)*
-- **Backend:** [Deployed Backend Link](#) *(Replace "#" with actual deployed backend link)*
-
+- **Frontend:** [Deployed Frontend Link](tcs-employess-mock.vercel.app) 
+- **Backend:** [Deployed Backend Link](https://tcs-employess-mock.onrender.com/)
 ---
 
 ## GitHub Repository
 
-- **GitHub Link:** [GitHub Repository](#) *(Replace "#" with actual GitHub repository link)*
+- **GitHub Link:** [GitHub Repository]()
 
