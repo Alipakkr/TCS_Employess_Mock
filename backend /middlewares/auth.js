@@ -22,4 +22,4 @@ const auth = async(req, res, next)=>{
         res.json({msg:" Sorry!Please Login..."})
     }
 }
-module.exports={auth}
+module.exports={auth};
